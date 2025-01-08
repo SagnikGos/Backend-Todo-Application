@@ -1,0 +1,15 @@
+[
+  {
+    "id": "f441868b-fe7a-4bb6-b408-9b402b918415",
+    "todo": "Do DSA",
+    "status": "completed",
+    "createdAt": "2025-01-08T18:49:55.607Z",
+    "updatedAt": "2025-01-08T18:53:29.257Z"
+  },
+  {
+    "id": "7318c117-e699-4869-8731-5a374747ac09",
+    "todo": "Do Web Dev",
+    "status": "pending",
+    "createdAt": "2025-01-08T18:50:08.221Z"
+  }
+]
